@@ -1,0 +1,749 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"con",
+				"conten"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pri",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controladores/homeControlador.php",
+			"settings":
+			{
+				"buffer_size": 1740,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "modelos/homeModelo.php",
+			"settings":
+			{
+				"buffer_size": 1102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/default/views/home-index.html",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controladores/newsControlador.php",
+			"settings":
+			{
+				"buffer_size": 10113,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/class.phpDataClass.php",
+			"settings":
+			{
+				"buffer_size": 2310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/default/css/style.css",
+			"settings":
+			{
+				"buffer_size": 80804,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<base href=\"http://union-norte.es\" target=\"_blank\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"union.css\">\n<title>UNIÓN NORTE</title>\n<style type=\"text/css\">\n<!--\nbody {\n	background-color: #eeeeee;\n\n}\niframe{\n overflow-x: hidden;\noverflow-y: scroll; \nborder:0;\n\n}\niframe body{\noverflow-y:auto;\n  overflow-x:hidden;\n}\n\n\n.tiempo {\n  margin: auto !important;\n}\n.Estilo2 {\n	font-size: 4px;\n	color: #eeeeee;\n}\n.Estilo3 {font-size : 9px; color: #737575; text-align: left; font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;}\n-->\n</style>\n<link href=\"SpryAssets/SpryMenuBarHorizontal.css\" rel=\"stylesheet\" type=\"text/css\" />\n<script src=\"Scripts/swfobject_modified.js\" type=\"text/javascript\"></script>\n<script src=\"SpryAssets/SpryMenuBar.js\" type=\"text/javascript\"></script>\n<script type=\"text/JavaScript\">\n<!--\nfunction MM_preloadImages() { //v3.0\n  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();\n    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)\n    if (a[i].indexOf(\"#\")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}\n}\n\nfunction MM_swapImgRestore() { //v3.0\n  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;\n}\n\nfunction MM_findObj(n, d) { //v4.01\n  var p,i,x;  if(!d) d=document; if((p=n.indexOf(\"?\"))>0&&parent.frames.length) {\n    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}\n  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];\n  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);\n  if(!x && d.getElementById) x=d.getElementById(n); return x;\n}\n\nfunction MM_swapImage() { //v3.0\n  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)\n   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}\n}\n//-->\n</script>\n</head>\n\n<body onload=\"MM_preloadImages('images/m2_04.png','images/m2_03.png','images/m2_02.png','images/gal.png','images/po1.png','images/m2_05.png','images/item3.png','images/item5.png','images/m2_06.png')\">\n<table width=\"997\" border=\"0\" align=\"center\">\n  <tr>\n    <td width=\"991\" height=\"86\" colspan=\"3\" valign=\"top\" background=\"images/fons.gif\"><table width=\"974\" height=\"1098\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n      <tr>\n        <td width=\"975\" height=\"274\" valign=\"top\" background=\"images/baner.png\"><p>&nbsp;</p>\n          <table width=\"700\" border=\"0\" align=\"right\" cellpadding=\"1\" cellspacing=\"1\">\n            <tr>\n              <td colspan=\"8\"><div align=\"right\"><img src=\"images/rallas.png\" width=\"465\" height=\"13\" /></div></td>\n              <td>&nbsp;</td>\n            </tr>\n            <tr>\n              <td width=\"6\">&nbsp;</td>\n              <td width=\"9\">&nbsp;</td>\n              <td width=\"233\">&nbsp;</td>\n              <td width=\"51\"><a href=\"index.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Home','','images/m2_02.png',1)\"><img src=\"images/m1_02.png\" alt=\"Home\" name=\"Home\" width=\"51\" height=\"14\" border=\"0\" id=\"Home\" /></a></td>\n              <td width=\"77\"><a href=\"historia.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Historia','','images/m2_03.png',1)\"><img src=\"images/m1_03.png\" alt=\"Historia\" name=\"Historia\" width=\"77\" height=\"14\" border=\"0\" id=\"Historia\" /></a></td>\n              <td width=\"86\"><a href=\"contacto.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Contacto','','images/m2_04.png',1)\"><img src=\"images/m1_04.png\" alt=\"Contacto\" name=\"Contacto\" width=\"86\" height=\"14\" border=\"0\" id=\"Contacto\" /></a></td>\n              <td width=\"125\"><ul id=\"MenuBar1\" class=\"MenuBarHorizontal\">\n                <li><a href=\"#\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('instalaciones','','images/m2_05.png',1)\"><img src=\"images/m1_05.png\" alt=\"instalaciones\" width=\"125\" height=\"14\" id=\"instalaciones\" /></a>\n                  <ul>\n                    <li><a href=\"pozos.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('pozos','','images/po1.png',1)\"><img src=\"images/po2.png\" alt=\"pozos\" width=\"77\" height=\"14\" id=\"pozos\" /></a></li>\n                    <li><a href=\"galerias.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('galerías','','images/gal.png',1)\"><img src=\"images/gal2.png\" alt=\"galerías\" width=\"87\" height=\"14\" id=\"galerías\" /></a></li>\n                  </ul>\n                </li>\n              </ul></td>\n              <td width=\"43\"><ul id=\"MenuBar2\" class=\"MenuBarHorizontal\">\n                <li><a href=\"#\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('descarga','','images/m2_06.png',1)\"><img src=\"images/m1_06.png\" alt=\"descarga\" width=\"88\" height=\"14\" id=\"descarga\" /></a>\n                  <ul>\n                    <li><a href=\"traspaso_acciones.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('traspaso de acciones','','images/item3.png',1)\"><img src=\"images/item4.png\" alt=\"traspaso de acciones\" width=\"198\" height=\"14\" id=\"traspaso de acciones\" /></a></li>\n                    <li><a href=\"adulamientos.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('adulamiento','','images/item5.png',1)\"><img src=\"images/item6.png\" alt=\"adulamiento\" width=\"115\" height=\"14\" id=\"adulamiento\" /></a></li>\n                  </ul>\n                </li>\n              </ul></td>\n              <td width=\"44\" class=\"calendari\">..................................</td>\n            </tr>\n            <tr>\n              <td colspan=\"9\" align=\"right\">&nbsp;</td>\n            </tr>\n            <tr> </tr>\n            <tr> </tr>\n          </table></td>\n        </tr>\n      <tr>\n        <td height=\"275\" valign=\"top\"><table width=\"950\" border=\"0\" align=\"center\" cellpadding=\"2\" cellspacing=\"2\">\n          <tr>\n            <td width=\"629\" rowspan=\"4\" valign=\"top\"><p class=\"header\">Presentación</p>\n              <p class=\"textnovetats2\">La Comunidad de Aguas Unión Norte fue creada el 27 de Diciembre 1971 a raíz del cambio de nombre de la  ya extinta Comunidad de Aguas “Aguas del  Norte” y la fusión de partícipes de varias Comunidades de agua del norte  de la isla de Tenerife, siendo su fin esencial la investigación, captación,  distribución y aprovechamiento de las aguas subterráneas obtenidas en las  galerías y pozos de su propiedad, estando ubicadas  las obras de captación dentro de los términos  municipales de La Orotava, Santa Úrsula, La Victoria de Acentejo, La Matanza de  Acentejo, El Sauzal, Tacoronte y La Laguna.</p>\n              <p class=\"textnovetats2\">La distribución de las aguas alumbradas se  realiza por los referidos municipios y por los de Puerto de la Cruz, Tegueste y  Santa Cruz de Tenerife a través de su amplia red de canales, suministrando el  agua en el lugar que determinan sus partícipes, siendo para todos los usos;  fundamentalmente el abastecimiento urbano y la agricultura. <br />\n                </p>\n              <p class=\"textnovetats2\">Actualmente la comunidad cuenta  aproximadamente con 2.500 partícipes que disponen de las más de 28.000  participaciones que conforman la comunidad, siendo considerada hoy en día por  su amplitud y diversidad de caudales, una de las más importantes de la isla de  Tenerife.   <br />\n                <br />\n                <br />\n                <img src=\"images/oficina.png\" width=\"620\" height=\"342\" /></p>\n              <table width=\"600\" border=\"0\" align=\"left\" cellpadding=\"2\" cellspacing=\"2\">\n                <tr>\n                  <td><img src=\"images/i1.png\" width=\"200\" height=\"150\" /></td>\n                  <td><img src=\"images/i2.png\" width=\"200\" height=\"150\" /></td>\n                  <td><img src=\"images/i3.png\" width=\"200\" height=\"150\" /></td>\n                </tr>\n          </table>\n              <p>&nbsp;</p>\n              <p>&nbsp;</p>\n              <p class=\"textnovetats2\">&nbsp;</p></td>\n            <td width=\"307\" height=\"25\" valign=\"top\">&nbsp;</td>\n          </tr>\n         \n         \n          <tr>\n            <td valign=\"top\">\n\n              <!-- www.TuTiempo.net - Ancho:120px - Alto:217px -->\n        <div  class=\"tiempo\" id=\"TT_RymEkkkEk4p8MehK1fzzzDDDDtuKLKnlbdEdEZioqkz\" style=\"margin:auto;\"><strong><a href=\"http://www.tutiempo.net\">El tiempo</a></strong></div>\n        <script type=\"text/javascript\" src=\"http://www.tutiempo.net/widget/eltiempo_RymEkkkEk4p8MehK1fzzzDDDDtuKLKnlbdEdEZioqkz\"></script>\n            \n            <iframe src=\"http://localhost/union/\" name=\"SubHtml\"\n              width=\"324\" height=\"500\" scrolling=\"no\" frameborder=\"1\" frameBorder=\"0\" >\n             \n            </iframe>\n\n\n\n            </td>\n          </tr>\n        </table></td>\n      </tr>\n    </table></td>\n  </tr>\n  <tr>\n    <td height=\"10\" colspan=\"3\" valign=\"top\"><span class=\"Estilo2\">..</span></td>\n  </tr>\n  <tr>\n    <td height=\"130\" colspan=\"3\" valign=\"top\" background=\"images/fons.gif\"><table width=\"950\" border=\"0\" align=\"center\" cellpadding=\"2\" cellspacing=\"2\">\n      <tr>\n        <td width=\"145\"><img src=\"images/unionlogo.png\" alt=\"Unión Norte\" width=\"136\" height=\"97\" longdesc=\"Unión Norte\" /></td>\n        <td width=\"255\" class=\"textnovetats\"><p><span class=\"textlinks2\"><strong>Comunidad de Aguas Unión Norte. </strong><br />\n              <strong>Oficina  Santa Cruz de Tenerife.</strong><br />\n            Avenida  Francisco La Roche nº31 1º Piso. <br />\n38001 Santa  Cruz de Tenerife.<br />\nHorario.  Lun-Vie. 8:00-14:00<br />\nTeléfonos: 922-24  31 25  922-24 21 73<br />\nFAX: 922-29 14  00</span><br />\n        <a href=\"mailto:administracion@union-norte.es\">administracion@union-norte.es</a> </p>          </td>\n        <td width=\"264\" valign=\"top\" class=\"textnovetats\"><p><span class=\"Estilo3\"><strong>Oficina Tacoronte. </strong></span><span class=\"textlinks2\"><br />\n          Carretera  General de Tacoronte, nº29. <br />\n          Centro  Comercial de Tacoronte. Local nº9,<br />\n          38350  Tacoronte.<br />\n          Horario.  Martes y Viernes. 10:00-12:00<br />\n          Teléfono:  922-57 24 80</span></p></td>\n        <td width=\"264\" valign=\"top\" class=\"textnovetats\"><a href=\"https://www.facebook.com/Comunidaddeaguasunionnorte\" target=\"_blank\"><img src=\"images/facebook2.jpg\" width=\"181\" height=\"64\" alt=\"facebook\" /></a></td>\n      </tr>\n    </table></td>\n  </tr>\n</table>\n<script type=\"text/javascript\">\nswfobject.registerObject(\"FlashID2\");\nvar MenuBar1 = new Spry.Widget.MenuBar(\"MenuBar1\", {imgDown:\"SpryAssets/SpryMenuBarDownHover.gif\", imgRight:\"SpryAssets/SpryMenuBarRightHover.gif\"});\nvar MenuBar2 = new Spry.Widget.MenuBar(\"MenuBar2\", {imgDown:\"SpryAssets/SpryMenuBarDownHover.gif\", imgRight:\"SpryAssets/SpryMenuBarRightHover.gif\"});\nswfobject.registerObject(\"FlashID\");\n</script>\n</body>\n</html>\n",
+			"file": "themes/default/views/indexunion.html",
+			"file_size": 11006,
+			"file_write_time": 1401264705000000,
+			"settings":
+			{
+				"buffer_size": 10982,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controladores/pageControlador.php",
+			"settings":
+			{
+				"buffer_size": 1732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "core/db.php",
+			"settings":
+			{
+				"buffer_size": 430,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/www/union/themes/default/css/bootstrap.css",
+		"/Volumes/www/union/modelos/newsModelo.php",
+		"/Volumes/www/union/controladores/pageControlador.php",
+		"/Volumes/www/union/controladores/newsControlador.php",
+		"/Volumes/www/union/themes/default/views/home-index.html",
+		"/Volumes/www/union/index.php",
+		"/Volumes/www/union/themes/default/css/style.css",
+		"/Volumes/www/union/themes/default/css/bootstrap.min.css",
+		"/Volumes/www/union/themes/default/admin.html",
+		"/Volumes/www/union/themes/default/views/page-index.html",
+		"/Volumes/www/union/modelos/pageModelo.php",
+		"/Volumes/www/union/core/es.php",
+		"/Volumes/www/union/core/Url.php",
+		"/Volumes/www/union/core/Security.php",
+		"/Volumes/www/union/themes/default/views/news-edit.html",
+		"/Volumes/www/union/themes/default/views/news-add.html",
+		"/Volumes/www/union/themes/default/index.html",
+		"/Volumes/www/union/controladores/adminControlador.php",
+		"/Volumes/www/union/themes/default/views/news-index.html",
+		"/Volumes/www/union/config/config.php",
+		"/Volumes/www/union/themes/default/union.html",
+		"/Volumes/www/union/modelos/homeModelo.php",
+		"/Volumes/www/union/controladores/registroControlador.php",
+		"/Volumes/www/union/modelos/adminModelo.php",
+		"/Volumes/www/union/themes/default/views/news-index.html ",
+		"/Volumes/www/union/controladores/homeControlador.php",
+		"/Volumes/www/union/themes/default/views/admin-index.html",
+		"/Volumes/www/union/core/db.php",
+		"/Volumes/www/union/themes/default/views/registro-registrar.html",
+		"/Volumes/www/union/themes/default/views/bootstrap.html",
+		"/Volumes/www/union/.htaccess",
+		"/Volumes/www/vc/themes/default/views/app-menu.html",
+		"/Volumes/www/vc/themes/default/views/menu-home.html",
+		"/Volumes/www/vc/modelos/busquedaModelo.php",
+		"/Volumes/www/vc/controladores/busquedaControlador.php",
+		"/Volumes/www/vc/lib/class.phpDataClass.php",
+		"/Volumes/www/vc/controladores/appControlador.php",
+		"/Volumes/www/vc/modelos/anuncioModelo.php",
+		"/Volumes/www/vc/modelos/homeModelo.php",
+		"/Volumes/www/vc/controladores/homeControlador.php",
+		"/Volumes/www/vc/modelos/buscadorModelo.php",
+		"/Volumes/www/vc/controladores/loginControlador.php",
+		"/Volumes/www/vc/themes/default/css/index.css",
+		"/Volumes/www/vc/controladores/menubuscadorControlador.php",
+		"/Volumes/www/vc/vc.sublime-workspace",
+		"/Volumes/www/vc/controladores/buscadorControlador.php",
+		"/Volumes/www/vc/themes/default/views/busqueda-index.html",
+		"/Volumes/www/vc/controladores/anuncioControlador.php",
+		"/Volumes/www/vc/modelos/appModelo.php",
+		"/Volumes/www/vc/themes/default/views/app-index.html",
+		"/Volumes/www/vc/themes/default/views/app-nuevovehiculo.html",
+		"/Volumes/www/a/controladores/inmueblesControlador.php",
+		"/Volumes/www/a/controladores/homeControlador.php",
+		"/Volumes/www/vc/index.php",
+		"/Volumes/www/a/lib/class.XMLHandler.php",
+		"/Volumes/www/a/lib/lib.currency.php",
+		"/Volumes/www/a/index.php",
+		"/Volumes/www/a/controladores/blogControlador.php",
+		"/Volumes/www/a/controladores/currencyControlador.php",
+		"/Volumes/www/a/themes/default/index.html",
+		"/Volumes/www/a/themes/default/views/home-index.html",
+		"/Volumes/www/a/themes/default/views/buscador_reducido.html",
+		"/Volumes/www/a/themes/default/views/buscador.html",
+		"/Volumes/www/a/controladores/intranetControlador.php",
+		"/Volumes/www/a/config/lang.php",
+		"/Volumes/www/a/config/config.php",
+		"/Volumes/www/vc/themes/default/views/app-inicio.html",
+		"/Volumes/www/vc/themes/default/views/admin-usuario.html",
+		"/Volumes/www/vc/core/Session.php",
+		"/Volumes/www/vc/core/Send.php",
+		"/Volumes/www/vc/core/Security.php",
+		"/Volumes/www/vc/controladores/registroControlador.php",
+		"/Volumes/www/vc/modelos/registroModelo.php",
+		"/Volumes/www/vc/themes/default/views/anuncio-js.html",
+		"/Volumes/www/vc/themes/default/views/anuncio-index.html",
+		"/Volumes/www/vc/core/es.php",
+		"/Volumes/www/vc/core/Controlador.php",
+		"/Volumes/www/vc/themes/default/views/login-index.html",
+		"/Volumes/www/vc/controladores/adminControlador.php",
+		"/Volumes/www/vc/themes/default/index.html",
+		"/Volumes/www/vc/themes/default/views/app-css.html",
+		"/Volumes/www/vc/themes/default/css/font-awesome.min.css",
+		"/Volumes/www/vc/themes/default/font/fontawesome-webfont.eot",
+		"/Volumes/www/vc/controladores/importadorControlador.php",
+		"/Volumes/www/vc/modelos/importadorModelo.php",
+		"/Volumes/www/vc/themes/default/views/registro-registro.html",
+		"/Volumes/www/vc/themes/default/views/registro-java.html",
+		"/Volumes/www/vc/themes/default/views/registro-registrar.html",
+		"/Volumes/www/vc/themes/default/views/home-js.html",
+		"/Volumes/www/vc/themes/default/views/login-identify.html",
+		"/Volumes/www/vc/modelos/loginModelo.php",
+		"/Volumes/www/vc/config/config.php",
+		"/Volumes/www/vc/core/db.php",
+		"/Volumes/www/vc/core/Directory.php",
+		"/Volumes/www/vc/themes/default/views/home-index.html",
+		"/Volumes/www/vc/.htaccess",
+		"/Volumes/www/vc/themes/default/email/registro.html",
+		"/Volumes/www/vc/themes/default/views/registro-end.html",
+		"/Volumes/www/vc/themes/default/views/anuncio-iddialog.html",
+		"/Volumes/www/vc/themes/default/js/general.js",
+		"/Volumes/www/vc/themes/default/views/registro-registrar.html ",
+		"/Volumes/www/vc/themes/default/views/buscador-index.html",
+		"/Volumes/www/vc/themes/default/css/bootstrap.css",
+		"/Volumes/www/vc/modelos/adminModelo.php",
+		"/Volumes/www/vc/themes/default/views/busqueda-index.html ",
+		"/Volumes/www/vc/themes/default/views/buscador-buscar.html",
+		"/Volumes/Descargas/ajax.js",
+		"/Volumes/www/vc/themes/default/views/home.js",
+		"/Volumes/www/vc/themes/default/views/._home.js",
+		"/Volumes/www/vc/config/table.sql",
+		"/Volumes/www/vc/themes/default/js/bootstrap.js",
+		"/Volumes/www/vc/themes/default/js/bootstrap.min.js",
+		"/Volumes/www/vc/themes/default/views/anuncio-bg.html",
+		"/Volumes/www/vc/themes/default/js/jquery.foggy.min.js",
+		"/Volumes/www/vc/themes/default/js/vague.js",
+		"/Volumes/www/vc/themes/default/js/blur.min.js",
+		"/Volumes/www/vc/themes/default/views/anuncio-css.html",
+		"/Volumes/www/vc/themes/default/css/style.css",
+		"/Volumes/www/vc/themes/default/views/importador-importar.html",
+		"/Volumes/www/vc/themes/default/views/header.html",
+		"/Volumes/www/vc/themes/default/admin.html",
+		"/Volumes/www/vc/controladores/publicaranuncioControlador.php",
+		"/Volumes/www/vc/themes/default/buscador.html",
+		"/Volumes/www/vc/lib/class.TemplatePower.inc.php",
+		"/Volumes/www/vc/themes/default/js/jquery-ias.min.js",
+		"/Volumes/www/vc/themes/default/index copia.html",
+		"/Volumes/www/vc/core/Model.php",
+		"/Volumes/www/vc/modelos/validadorModelo.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/www/vc/themes/default/views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"limpiaslug",
+			"slug",
+			"url",
+			"tiempo",
+			"flash",
+			"objet",
+			"#intro .signup ",
+			"#intro .signup input[type=\"text\"] {",
+			"intro",
+			"ulcolum li ",
+			"anuncio_box",
+			"li",
+			"admi li",
+			"admin",
+			"idioma",
+			"anuncio_box",
+			";",
+			"=",
+			"\"]",
+			"$array[",
+			"Retrovisores Eléctricos",
+			"r_c",
+			"tel",
+			"s_a",
+			"rad_cas",
+			"p_m",
+			"ord",
+			"mp3",
+			"libro",
+			"m_d",
+			"mad",
+			"lla",
+			"l_f",
+			"full_e",
+			"f_a",
+			"e_e",
+			"d_a",
+			"dvd",
+			"clim",
+			"c_t",
+			"\nc_t",
+			"Compact",
+			"c_d",
+			"c_c",
+			"bluetooth",
+			"a_r",
+			"aut",
+			"al",
+			"a_e",
+			"a_c",
+			"a_a",
+			"r_e",
+			"r_",
+			"r_e",
+			".buscar-select-search ",
+			"form",
+			"GetrowCount",
+			"row",
+			"set_currency",
+			"currency",
+			"red",
+			"user_status",
+			"user st",
+			"label",
+			"modal-content",
+			"idioma",
+			"idiamo",
+			" );",
+			"useron",
+			"vehiculos",
+			"radi",
+			".btn{",
+			"btn",
+			"bnt",
+			".bnt",
+			"bnt",
+			"media",
+			"container",
+			"buscador",
+			"mysql_close()",
+			"                    <?\n                    // ojo esto es imprescindible si quieres que te valide con xhtml\n                    ini_set('session.use_trans_sid', false);\n                    ini_set(\"url_rewriter.tags\",\"\");\n                    ?>\n                    <? session_start(); ?>\n                    <? error_reporting ( E_ALL ); ?>\n                    <? include_once \"funciones.php\" ?>\n                    <? include_once \"func_caracter.php\" ?>\n                    <?\n                    $es_vayacoche                                                                                                    =true;\n                    $es_vayamoto                                                                                                     =false;\n                    if (strpos ($_SERVER['HTTP_HOST'],$var_pagina_vmoto)>0 )\n                    { \n                    $es_vayacoche                                                                                                    =false;\n                    $es_vayamoto                                                                                                     =true;\n                    }\n                    ?>\n                    <?php require_once('./Connections/vayacoche.php'); ?>\n                    <? \n                    # Todas las rutinas basadas en busca.php con adaptación para ver el nombre del cliente\n                    ?>\n                    <?  $_SESSION['activo']                                                                                          =\"PROFESIONALES\";  ?> \n                    <?php\n                    #	Function for navigation build ::\n                    function buildNavigation($pageNum_Recordset1,$totalPages_Recordset1,$prev_Recordset1,$next_Recordset1,$separator =\" | \",$max_links=10, $show_page=true)\n                    {\n                    GLOBAL $maxRows_busqueda,$totalRows_busqueda;\n                    $pagesArray                                                                                                      = \"\"; $firstArray = \"\"; $lastArray = \"\";\n                    if($max_links<2)$max_links                                                                                       =2;\n                    if($pageNum_Recordset1                                                                                           <=$totalPages_Recordset1 && $pageNum_Recordset1>=0)\n                    {\n                    if ($pageNum_Recordset1 > ceil($max_links/2))\n                    {\n                    $fgp                                                                                                             = $pageNum_Recordset1 - ceil($max_links/2) > 0 ? $pageNum_Recordset1 - ceil($max_links/2) : 1;\n                    $egp                                                                                                             = $pageNum_Recordset1 + ceil($max_links/2);\n                    if ($egp                                                                                                         >= $totalPages_Recordset1)\n                    {\n                    $egp                                                                                                             = $totalPages_Recordset1+1;\n                    $fgp                                                                                                             = $totalPages_Recordset1 - ($max_links-1) > 0 ? $totalPages_Recordset1  - ($max_links-1) : 1;\n                    }\n                    }",
+			"header",
+			"from",
+			"provincia",
+			"Fondo_bot.png",
+			"tbTelefonoFijo",
+			"fijo",
+			"tbTelefono",
+			"tbTelefonoFijo",
+			"telefono",
+			"cano",
+			"canonical",
+			"cano",
+			"form1",
+			"form",
+			"tbNombre"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			"=>",
+			"\"",
+			"",
+			"\"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controladores/homeControlador.php",
+					"settings":
+					{
+						"buffer_size": 1740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								826,
+								826
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "modelos/homeModelo.php",
+					"settings":
+					{
+						"buffer_size": 1102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "themes/default/views/home-index.html",
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "controladores/newsControlador.php",
+					"settings":
+					{
+						"buffer_size": 10113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3014,
+								3047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1439.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/class.phpDataClass.php",
+					"settings":
+					{
+						"buffer_size": 2310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1164,
+								1164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "themes/default/css/style.css",
+					"settings":
+					{
+						"buffer_size": 80804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "themes/default/views/indexunion.html",
+					"settings":
+					{
+						"buffer_size": 10982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8667,
+								8667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2174.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "controladores/pageControlador.php",
+					"settings":
+					{
+						"buffer_size": 1732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 209.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "core/db.php",
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/www/vc/vc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true
+}

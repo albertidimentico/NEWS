@@ -1,0 +1,42 @@
+<div class="container ">
+	<div class="row">
+        <div class="col-md-12">
+        <h4><a href="{page_url}news/add/" class="btn btn-primary btn-xs" data-title="Edit" data-toggle="modal" data-target="#edit" data-placement="top" rel="tooltip">
+          <span class="fa fa-plus-square-o "></span></a></h4>
+        <div class="table-responsive">
+        <table id="mytable" class="table table-bordred table-striped">
+        <thead>
+          <th>Título</th>
+          <th>Fecha</th>
+          <th>Edición</th>
+        </thead>
+        <tbody>  
+         <!-- START BLOCK : post -->
+          <tr>
+            <td>{title}</td>
+            <td>{date}</td>
+            <td>
+           
+              <a href="{page_url}news/edit/{id}/" class="btn btn-primary btn-xs" data-title="Edit" data-toggle="modal" data-target="#edit" data-placement="top" rel="tooltip">
+                <span <div class="fa fa-edit"></span></a>
+               
+              <a href="{page_url}news/delete/{id}/"class="btn btn-danger btn-xs" data-title="Delete" data-toggle="modal" data-target="#delete" data-placement="top" rel="tooltip">
+              <span <div class="fa fa fa-trash-o"></span></a>
+
+            </td>
+          </tr>
+         <!-- END BLOCK : post -->
+        </tbody>
+        </table>
+
+            
+        </div>
+	</div>
+</div>
+
+
+
+    
+    
+    
+    

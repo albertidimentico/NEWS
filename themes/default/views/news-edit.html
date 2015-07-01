@@ -1,0 +1,33 @@
+  <div class="container ">
+  	<div class="row">
+      <div class="col-md-12">
+        <form name="input" action="{page_url}news/saveedit/{idedit}/" method="post">
+          <input class=" form-control" type="hidden" name="{usuario_name}" value="{usuario}">
+          <select class=" form-control" name="{namecategoria}">
+            <option value="1" selected='selected'>{namecategoria}</option> 
+            <!-- START BLOCK : categorias -->
+            <div class="form-group">
+             <option value="{id}">{name}</option> 
+            </div>
+            <!-- END BLOCK : categorias -->
+            </select>
+            <!-- START BLOCK : add -->
+              <div class="form-group">
+              <label  class="control-label">{input}</label>
+              <{etiqueta} class="{class}" type="text" name="{input}" value="{value}">{contenido_textarea}{fin_etiqueta}
+            </div>
+            <!-- END BLOCK : add -->
+             <input type="submit" class="col-md-12 btn btn-danger" value="{guardar}">
+        </form> 
+      </div>
+  	</div>
+  </div>
+
+
+
+
+
+    
+    
+    
+    
